@@ -1,0 +1,63 @@
+[
+    {
+        "entrenador": "Brock",
+        "pokemons": [
+            {
+                "nombre": "Buizel",
+                "tipo": "agua",
+                "foto": "./img/pokemones/Buizel.png"
+            },
+            {
+                "nombre": "Pikachu",
+                "tipo": "electrico",
+                "foto": "./img/pokemones/picachu.png"
+            },
+            {
+                "nombre": "Squirtle",
+                "tipo": "agua",
+                "foto": "./img/pokemones/Squirtle.png"
+            },
+            {
+                "nombre": "Corphish",
+                "tipo": "tierra",
+                "foto": "./img/pokemones/Corphish.png"
+            },
+            {
+                "nombre": "Donfan",
+                "tipo": "tierra",
+                "foto": "./img/pokemones/donfan.png"
+            }
+
+        ]
+    },
+    {
+        "entrenador": "Ash Quetchu",
+        "pokemons": [
+            {
+                "nombre": "Charizard",
+                "tipo": "fuego",
+                "foto": "./img/pokemones/charizard.png"
+            },
+            {
+                "nombre": "Pikachu",
+                "tipo": "electrico",
+                "foto": "./img/pokemones/picachu.png"
+            },
+            {
+                "nombre": "Squirtle",
+                "tipo": "agua",
+                "foto": "./img/pokemones/Squirtle.png"
+            },
+            {
+                "nombre": "Vinnasor",
+                "tipo": "planta",
+                "foto": "./img/pokemones/vinasor.png"
+            },
+            {
+                "nombre": "Donfan",
+                "tipo": "tierra",
+                "foto": "./img/pokemones/donfan.png"
+            }
+        ]
+    }
+]

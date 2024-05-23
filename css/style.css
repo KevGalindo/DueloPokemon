@@ -1,0 +1,71 @@
+body {
+    background: url('../img/estadio.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+#entrenadores-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.entrenador {
+    border: 2px solid #333;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px 0;
+    background: rgba(0, 0, 0, 0.5);
+    width: 80%;
+}
+
+.entrenador h3 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.pokemon {
+    display: inline-block;
+    width: 120px;
+    height: 150px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.8);
+    text-align: center;
+}
+
+.pokemon img {
+    width: 80px;
+    height: 80px;
+}
+
+.pokemon p {
+    font-size: 18px;
+    margin: 10px 0 0;
+    font-weight: bold;
+    color: #333;
+}
+
+.planta {
+    border-color: green;
+}
+
+.fuego {
+    border-color: red;
+}
+
+.electrico {
+    border-color: yellow;
+}
+
+.agua {
+    border-color: blue;
+}
+.tierra{
+    border-color: brown;
+}
